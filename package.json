@@ -11,7 +11,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "request": "2.x.x"
+    "request": "2.82.0"
   },
   "bugs": {
     "url": "https://github.com/kickboxio/kickbox-node/issues"
